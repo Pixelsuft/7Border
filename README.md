@@ -9,3 +9,6 @@ Standart running: <br />
 ![Screenshot](https://raw.githubusercontent.com/Pixelsuft/7Border/main/screenshots/2.png) <br />
 Using this program: <br />
 ![Screenshot](https://raw.githubusercontent.com/Pixelsuft/7Border/main/screenshots/3.png)
+# Bugs
+1)Doesn't work on standart windows apps (Steam, Google Chrome, too) <br />
+2)Sometimes starts program with border style as None
