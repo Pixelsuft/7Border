@@ -75,7 +75,7 @@ def open_def():
         filetypes=[("All files (*.*)", "*.*")]
     )
     try:
-        txt.delete(0)
+        txt.delete(0, len(txt.get()))
         txt.insert(0, file_name.name)
     except:
         print('Ignoring...')
